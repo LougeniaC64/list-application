@@ -30,7 +30,7 @@ namespace ListApplication
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             // Configure the HTTP request pipeline.
-            app.UseStaticFiles();
+            //app.UseStaticFiles();
 
             // Add MVC to the request pipeline.
             app.UseMvc();

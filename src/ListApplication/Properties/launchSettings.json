@@ -3,7 +3,7 @@
     "IIS Express": {
       "commandName" : "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/list",
       "environmentVariables" : {
         "ASPNET_ENV": "Development"
       }
