@@ -15,7 +15,7 @@ namespace ListApplication
 
         public override string ToString()
         {
-            return nameof(this.Name);//$"{this.Name}";
+            return nameof(this.Name);
         }
     }
 }
